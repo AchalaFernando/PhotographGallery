@@ -1,0 +1,75 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Login Pic.png</file>
+        <file>Logo.png</file>
+        <file>Fotter.PNG</file>
+        <file>Hedder.PNG</file>
+        <file>nature/nature  (1).jpg</file>
+        <file>nature/nature  (6).jpg</file>
+        <file>nature/nature  (7).jpg</file>
+        <file>nature/nature  (9).jpg</file>
+        <file>nature/nature  (11).jpg</file>
+        <file>nature/nature  (12).jpg</file>
+        <file>nature/nature  (13).jpg</file>
+        <file>nature/nature  (14).jpg</file>
+        <file>nature/homeNature.jpg</file>
+        <file>homeButton/barley.png</file>
+        <file>homeButton/music_96px.png</file>
+        <file>homeButton/beach_96px.png</file>
+        <file>homeButton/nest_100px.png</file>
+        <file>homeButton/city_96px.png</file>
+        <file>homeButton/steam_engine_96px.png</file>
+        <file>homeButton/waterfall_96px.png</file>
+        <file>homeButton/ios_photos_96px.png</file>
+        <file>field/Field1.jpg</file>
+        <file>field/Field2.jpg</file>
+        <file>field/Field3.jpg</file>
+        <file>field/Field4.jpg</file>
+        <file>field/Field5.jpg</file>
+        <file>field/Field6.jpg</file>
+        <file>field/Field7.jpg</file>
+        <file>field/Field8.jpg</file>
+        <file>homeImages/Nest.PNG</file>
+        <file>homeImages/Nature.PNG</file>
+        <file>homeImages/Field.PNG</file>
+        <file>homeImages/NuwaraCity.PNG</file>
+        <file>nwaraCity/nuwaraCity1.PNG</file>
+        <file>nwaraCity/nuwaraCity2.PNG</file>
+        <file>nwaraCity/nuwaraCity3.PNG</file>
+        <file>nwaraCity/nuwaraCity4.PNG</file>
+        <file>nwaraCity/nuwaraCity5.PNG</file>
+        <file>nwaraCity/nuwaraCity6.PNG</file>
+        <file>nwaraCity/nuwaraCity7.PNG</file>
+        <file>nwaraCity/nuwaraCity8.PNG</file>
+        <file>railway/railway3.jpg</file>
+        <file>railway/railwa5.PNG</file>
+        <file>railway/railwa8.PNG</file>
+        <file>railway/railway1.PNG</file>
+        <file>railway/railway2.PNG</file>
+        <file>railway/railway4.PNG</file>
+        <file>railway/railway6.PNG</file>
+        <file>railway/railway7.PNG</file>
+        <file>nest/nest1.PNG</file>
+        <file>nest/nest2.PNG</file>
+        <file>nest/nest3.PNG</file>
+        <file>nest/nest4.PNG</file>
+        <file>nest/nest5.PNG</file>
+        <file>nest/nest6.PNG</file>
+        <file>nest/nest7.PNG</file>
+        <file>nest/nest8.PNG</file>
+        <file>homeImages/Railway.PNG</file>
+        <file>homeImages/Waterfall.PNG</file>
+        <file>waterfall/waterfall1.PNG</file>
+        <file>waterfall/waterfall2.PNG</file>
+        <file>waterfall/waterfall3.PNG</file>
+        <file>waterfall/waterfall4.PNG</file>
+        <file>waterfall/waterfall5.PNG</file>
+        <file>waterfall/waterfall6.PNG</file>
+        <file>waterfall/waterfall7.PNG</file>
+        <file>waterfall/waterfall8.PNG</file>
+        <file>logo/logo.png</file>
+        <file>homeButton/stop_96px.png</file>
+        <file>homeButton/subwoofer_48px.png</file>
+        <file>homeButton/bar_chart_48px.png</file>
+    </qresource>
+</RCC>
